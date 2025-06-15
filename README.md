@@ -1,5 +1,5 @@
 📘 Python Coding Exercises
-This repository contains a growing collection of daily Python coding problems and solutions, designed to improve your problem-solving and logic-building skills. Inspired by competitive programming, interview prep, and real-world scenarios, these exercises are ideal for learners at all levels — especially BCA/MCA students and early-career coders.
+This repository contains a growing collection of daily Python coding problems and solutions, designed to improve your problem-solving and logic-building skills. Inspired by competitive programming, interview prep, and real-world scenarios, these exercises are ideal for learners at all levels.
 
 🧠 Topics Covered:
 ✅ String Manipulation
@@ -15,6 +15,7 @@ This repository contains a growing collection of daily Python coding problems an
 📅 Daily Logic Building Practice
 
 🚀 Why this repo?
+
 Sharpen your Python fundamentals
 
 Prepare for coding rounds and interviews
